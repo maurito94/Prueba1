@@ -1,0 +1,39 @@
+/*class*/
+.subti
+{font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    font-size: 50px;
+color: rgb(70, 56, 159);
+background-color: antiquewhite;
+background-size: contain;
+}
+table {font-style: italic;
+    color: aqua;
+}
+.arriba {font-style: italic;
+    color: blue;
+}
+p { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: hwb(204 34% 33%);
+    font-size: 20px;
+    width: fit-content;
+    height: fit-content;
+    border:  1px solid black;}
+
+/*id*/ 
+
+.container {
+    background-color: rgb(197, 197, 238);
+    background-image: url(https://wallpaperaccess.com/full/2725919.jpg)
+
+}
+.titulo {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    color: #2b0b95;
+    background-color: rgb(95, 151, 181);
+    font-size: 70px;
+
+}
+ 

@@ -1,0 +1,14 @@
+/*fondo background*/
+h1 {
+    margin: 40px;
+    padding: 30px;
+    display: inline-block;
+    background: green;
+}
+p {
+    display: inline-block;
+    background: red;
+}
+body {
+    margin: 0px;
+}
