@@ -1,4 +1,10 @@
 /*class*/
+.titulo {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    color: #2b0b95;
+    background-color: rgb(95, 151, 181);
+    font-size: 70px;
+}
 .subti
 {font-style: oblique;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -27,13 +33,6 @@ p { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida 
 .container {
     background-color: rgb(197, 197, 238);
     background-image: url(https://wallpaperaccess.com/full/2725919.jpg)
+ }
 
-}
-.titulo {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: inherit;
-    color: #2b0b95;
-    background-color: rgb(95, 151, 181);
-    font-size: 70px;
-
-}
- 
+    h1 {align-content: center;}
